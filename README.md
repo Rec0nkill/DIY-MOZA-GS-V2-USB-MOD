@@ -8,7 +8,7 @@
 
 -  A bit of backstory how this started:
 
-    For me the GS Wheel is a perfect wheel in the 400-500€ price range, but is limited by Moza to only work with their wheelbase and I wanted to explore other wheelbases from other brands, keeping my GS wheel tho. 
+    For me the GS Wheel is a perfect wheel in the 400-500€ price range, but it is limited by Moza to only work with their wheelbase and I wanted to explore other wheelbases from other brands, keeping my GS wheel tho. 
     So I started doing some research, trying to find out if its possible and if anyone had tried modding a GS wheel. Sadly I didn't find anything. 
 
     In the end I decided to blindly give it a try. With the switch to the V2 system on the wheelbases I had the assumption that the FSR and KS wheel use the exact same connection to the bases as the GS V2. Given that the FSR and KS wheels have universal      hub support, my conclusion was the the GS wheel should also get picked up by the hub and it did! 
@@ -21,7 +21,7 @@
 
 #### Current issues & things to improve:
 
-  - USB Power stability
+  - USB Power stability (only a problem when using the hub in the wheel)
   
     The hub uses USB 2.0, meaning 2.5W max for power, so 0.5A at 5V.
 
