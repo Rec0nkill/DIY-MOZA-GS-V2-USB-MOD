@@ -29,7 +29,9 @@
 
     That's why Moza added the auxiliry USB port (the USB-C port) this stabilizes the power and the problem is resolved.
 
-    With the hub being in the wheel, the goal is to only run one 4-wire cable to the wheel. This means one cable for each port is not possible. For now I get around this issue by plugging into a powered hub and using a relativly short not coiled cable,       but I want to find a more suitible solution in the future.
+    With the hub being in the wheel, the goal is to only run one 4-wire cable to the wheel. This means one cable for each port is not possible. First I got around the issue by plugging into a powered hub and using a relativly short not coiled cable, I have now connected the + and - from the usb cable to both USB ports on the hub, making a y-splitter. That has helped a bit and I can now use a coiled cable. But it needs to be plugged in directly to the powered usb hub, any extension results in a bad connection.
+    
+    The goal now is to find a small USB 3.0 hub pcb, that I can place in the wheel with the hub pcb, then I can pull more power over the external cable to the wheel and use both usb ports on the hub inside the wheel.
 
 ### Some pictures of the two type of setups I have tried (1 with the hub external and 1 with the hub inside the wheel):
   
