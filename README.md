@@ -10,13 +10,19 @@
   
 &nbsp;
 
-Other users have tried the mod on different wheels and so far it seems it only works on select wheels:
-| Wheel       | Version     | Mod possible|
+### Compatibility
+
+I did this mod on a 2024 GSv2, but other users have tried the mod on different wheels and so far it seems it only works with certain Moza wheels.\
+This mod doesn't work on V1 wheels, it needs to be a V2 wheel.\
+But Moza has updated their communication protokoll on their wheels in 2025, so any V2 wheel produced/bought after July 2025 won't work.
+So if you want to try this mod, make sure the production date is before July 2025. According to a Moza Discord Mod, the production date can be found on the box.
+
+
+| Wheel       | Version     |confirmed    |
 | ------------|:------------| :----------:|
-|   GS        |   V2        |  yes        |
-|   GS        |   V2P       |  no         |
-|   RS        |   V2        |  no         |
-|   CS        |   n.a       |  yes        |
+|   GS        |   V2 / before 07.2025       |  yes        |
+|   CS        |   V2 / before 07.2025       |  yes        |
+
 
 &nbsp; 
 
