@@ -1,10 +1,24 @@
-# DIY-MOZA-GS-V2-USB-MOD
+# DIY MOZA GSV2 USB MOD
+
+
 #### General Information
 - This page is to collect information on how to mod a MOZA GS V2 wheel (now called GS GT by MOZA)
 
+- This mod allows the Moza GS V2 to be used on any wheelbase from any brand, as long as the actual physical QC connection is adapted of course.
 
-- This mod allows the Moza GS V2 and V2P (V2P not confirmed, still need to confirm) to be used on any wheelbase from any brand, as long as the actual physical QC connection is adapted of course.
+- As a starting point, I have written some general instructions in a PDF format that can be found on this page, more information will follow as things progress.
+  
+&nbsp;
 
+Other users have tried the mod on different wheels and so far it seems it only works on select wheels:
+| Wheel       | Version     | Mod possible|
+| ------------|:------------| :----------:|
+|   GS        |   V2        |  yes        |
+|   GS        |   V2P       |  no         |
+|   RS        |   V2        |  no         |
+|   CS        |   n.a       |  yes        |
+
+&nbsp; 
 
 -  A bit of backstory how this started:
 
@@ -15,7 +29,7 @@
     All that is needed is to take the 4 wires that go to the QC pcb at the end of the wheel and connect them to one of the hub ports and the hub recognizes the GS V2 wheel like any other officially supported wheel from Moza. 
 
 
-- As a starting point, I have written some general instructions in a PDF format that can be found on this page, more information will follow as things progress.
+
 
 
 
@@ -33,18 +47,23 @@
     
     The goal now is to find a small USB 3.0 hub pcb, that I can place in the wheel with the hub pcb, then I can pull more power over the external cable to the wheel and use both usb ports on the hub inside the wheel.
 
-### Some pictures of the two type of setups I have tried (1 with the hub external and 1 with the hub inside the wheel):
+&nbsp;     
+
+## Here are some pictures of the two type of setups I have tried:
+
   
 
-- #### USB Mod with stock external hub (identical to the way the FSR or KS wheel from Moza work on the hub) 
-
+### USB Mod with stock external hub
+*(identical to the way the FSR or KS wheel from Moza work on the hub)*
 
 ![WhatsApp Image 2024-09-17 at 14 22 35](https://github.com/user-attachments/assets/ab2ff165-d699-41f1-bbc4-183ce77eb178)
 
 ![WhatsApp Image 2024-09-17 at 14 22 36](https://github.com/user-attachments/assets/50fc837b-aa24-42fa-8cb8-92613d1fa28a)
 
+&nbsp; 
 
-- #### USB Mod with internal Hub (true USB connection out of the wheel, the same way 3rd party wheels would be set up)
+ ### USB Mod with internal Hub 
+*(true USB connection out of the wheel, the same way 3rd party wheels would be set up)*
 
 ![WhatsApp Image 2024-09-23 at 14 06 51](https://github.com/user-attachments/assets/f5084fef-00ad-4b7a-9f1b-92cd552d7478)
 
